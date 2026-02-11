@@ -1,4 +1,7 @@
-## Hi there 👋
+<img width="1128" height="191" alt="DbianIT" src="https://github.com/user-attachments/assets/711f3a64-0740-457f-b49b-7ace14c20abc" />
+
+
+### Hi there 👋
 ## 🧠  **`Fabian — Senior Strategy & Data Consultant`**
 🧭 Sobre mim
 
@@ -35,6 +38,9 @@ Modelagem de Cenários e Decisão
 Execução, Monitoramento e Aprendizado Contínuo
 
 Esse modelo permite transformar dados em estratégia e estratégia em performance de negócio.
+
+
+ 🧠  **`From Data to Strategy. From Strategy to Business Impact`**
 
 🚀 Propósito
 
