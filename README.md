@@ -72,7 +72,16 @@ E-mail: dbiandatascientist@outlook.com
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
+/> 
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
+ />
+          
 <img 
     align="left" 
     alt="Git" 
@@ -89,7 +98,49 @@ E-mail: dbiandatascientist@outlook.com
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+ <img 
+    align="left" 
+    alt="Anaconda" 
+    title="Anaconda"
+    width="30px" 
+    style="padding-right: 10px;"  
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
+  
+ <img 
+    align="left" 
+    alt="Jupter Lab" 
+    title="Jupyter Lab"
+    width="30px" 
+    style="padding-right: 10px;"  
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 
+ <img 
+    align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;"  
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
+  />
+    
+ <img 
+    align="left" 
+    alt="API" 
+    title="API"
+    width="30px" 
+    style="padding-right: 10px;"  
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" 
+  />
+       
+ <img
+    align="left" 
+    alt="Streamlit" 
+    title="Streamlit"
+    width="30px" 
+    style="padding-right: 10px;"  
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg" 
+  />
+                        
 <br/>
 <br/>
 
