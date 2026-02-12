@@ -41,7 +41,7 @@ Execução, Monitoramento e Aprendizado Contínuo
 Esse modelo permite transformar dados em estratégia e estratégia em performance de negócio.
 
 
- 🧠  **`From Data to Strategy. From Strategy to Business Impact`**
+ 🧠  *`From Data to Strategy. From Strategy to Business Impact`*
 
 🚀 Propósito
 
