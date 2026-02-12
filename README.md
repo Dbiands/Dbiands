@@ -1,4 +1,5 @@
-<img width="1128" height="191" alt="DbianIT" src="https://github.com/user-attachments/assets/711f3a64-0740-457f-b49b-7ace14c20abc" />
+<img width="1128" height="191" alt="Pagina dbian linkdin" src="https://github.com/user-attachments/assets/ed434832-5dd1-4443-adfa-25ac88ac4819" />
+
 
 
 ### Hi there 👋
