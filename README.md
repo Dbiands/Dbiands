@@ -8,7 +8,7 @@
 
 # My name is Claudio Fabian, Professional with over 30 years of experience in management and the market.
 
-### Senior Strategic Consultant | Commercial & Strategic Market Planning | Data Scientist | Business Intelligence | AI & Machine Learning
+### Senior Strategic Consultant | Commercial & Strategic Market Planning | Data Scientist | Business Intelligence | Generative AI and Agentic AI for Business & Machine Learning
 
 I work at the intersection of **Strategy, Market, Commercial Management, Processes, Data and Technology**.
 
