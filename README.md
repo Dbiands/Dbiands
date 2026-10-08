@@ -6,13 +6,13 @@
 ## 🧠  **`Fabian — Senior Strategy & Data Consultant`**
 🧭 Sobre mim
 
-# Claudio Fabian
+# My name is Claudio Fabian, Professional with over 30 years of experience in management and the market.
 
 ### Senior Strategic Consultant | Commercial & Strategic Market Planning | Data Scientist | Business Intelligence | AI & Machine Learning
 
 I work at the intersection of **Strategy, Market, Commercial Management, Processes, Data and Technology**.
 
-My focus is helping organizations transform **data, market knowledge and business experience into strategic decisions, structured execution and sustainable growth**.
+My focus is helping organizations transform ** Market Science and data, market knowledge and business experience into strategic decisions, structured execution and sustainable growth**.
 
 ### Core Expertise
 
