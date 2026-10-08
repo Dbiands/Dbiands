@@ -6,39 +6,48 @@
 ## 🧠  **`Fabian — Senior Strategy & Data Consultant`**
 🧭 Sobre mim
 
-Sou Consultor Sênior em Estratégia Comercial e de Mercado, com mais de 30 anos de experiência em Gestão Comercial, Canais, Planejamento Comercial e Inteligência Estratégica.
+# Fabian
 
-Atuo na construção de modelos de decisão orientados a dados, conectando estratégia, mercado e ciência de dados para apoiar empresas na geração de valor sustentável e vantagem competitiva.
+### Senior Strategic Consultant | Commercial & Strategic Market Planning | Data Scientist | Business Intelligence | AI & Machine Learning
 
-Desenvolvo projetos de Business Intelligence, Data Analytics e Data Science aplicada a negócios, com foco em transformar dados em insights estratégicos e resultados concretos.
+I work at the intersection of **Strategy, Market, Commercial Management, Processes, Data and Technology**.
 
-Sou autor do Playbook “Inteligência Estratégica para Negócios” e criador do Método IES — Inteligência Estratégica como Sistema Sustentável, uma metodologia proprietária que integra Ciência de Dados, inteligência de mercado e planejamento estratégico em um modelo contínuo de tomada de decisão.
+My focus is helping organizations transform **data, market knowledge and business experience into strategic decisions, structured execution and sustainable growth**.
 
-💡 Áreas de atuação
+### Core Expertise
 
-Estratégia Comercial e de Mercado
+* Strategic & Commercial Market Planning
+* Competitive Intelligence & Market Intelligence
+* Business Intelligence & Data Analytics
+* Data Science
+* Artificial Intelligence & Machine Learning
+* Commercial Processes & Sales Management
+* Process Engineering
+* Strategic Diagnosis & Business Planning
+* Digital Marketing & Growth
+* Knowledge Management & Mentoring
 
-Planejamento Estratégico e Tático
+### Quantira Mentoria Consultiva & Tecnologia
 
-Inteligência de Mercado e Business Intelligence
+Founder and Senior Strategic Consultant at **Quantira**, focused on:
 
-Data Analytics e Data Science para Negócios
+**Strategy • Market • Commercial • Processes • Data • AI**
 
-Modelagem de decisões orientadas a dados
+My proprietary approach, **Sistema IES — Inteligência Estratégica Sustentável**, integrates people, culture, processes, products, market intelligence and data to create a structured path from diagnosis to execution.
 
-Estruturação de frameworks e metodologias estratégicas
+### Technology & Data
 
-⚙️ Abordagem de trabalho (Método IES)
+**Python • SQL • Power BI • Excel • Machine Learning • Artificial Intelligence • Data Analytics • Business Intelligence**
 
-O Método IES estrutura a Inteligência Estratégica como um sistema contínuo, baseado em três pilares:
+### What I Build
 
-Diagnóstico Estratégico Orientado a Dados
+I develop analytical models, strategic frameworks, business intelligence solutions, data-driven processes and knowledge-based methodologies designed to support better decisions and commercial performance.
 
-Modelagem de Cenários e Decisão
+**Strategy is the direction.
+Data is the evidence.
+Processes are the execution.
+People make it sustainable.**
 
-Execução, Monitoramento e Aprendizado Contínuo
-
-Esse modelo permite transformar dados em estratégia e estratégia em performance de negócio.
 
 
  🧠  *`From Data to Strategy. From Strategy to Business Impact`*
