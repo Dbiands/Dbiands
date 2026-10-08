@@ -16,7 +16,7 @@ My focus is helping organizations transform **data, market knowledge and busines
 
 ### Core Expertise
 
-* Strategic & Commercial Market Planning
+* Strategic & Commercial Market Planning and Market Science
 * Competitive Intelligence & Market Intelligence
 * Business Intelligence & Data Analytics
 * Data Science
