@@ -3,10 +3,10 @@
 
 
 ### Hi there 👋
-## 🧠  **`Fabian — Senior Strategy & Data Consultant`**
+## 🧠  **`Fabian Claudio — Senior Strategy & Data Consultant`**
 🧭 Sobre mim
 
-# Fabian
+# Fabian Claudio
 
 ### Senior Strategic Consultant | Commercial & Strategic Market Planning | Data Scientist | Business Intelligence | AI & Machine Learning
 
@@ -16,7 +16,7 @@ My focus is helping organizations transform **data, market knowledge and busines
 
 ### Core Expertise
 
-* Strategic & Commercial Market Planning
+* Strategic & Commercial Market Planning and Market Science
 * Competitive Intelligence & Market Intelligence
 * Business Intelligence & Data Analytics
 * Data Science
