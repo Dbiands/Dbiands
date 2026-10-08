@@ -3,10 +3,10 @@
 
 
 ### Hi there 👋
-## 🧠  **`Fabian Claudio — Senior Strategy & Data Consultant`**
+## 🧠  **`Fabian — Senior Strategy & Data Consultant`**
 🧭 Sobre mim
 
-# Fabian Claudio
+# Claudio Fabian
 
 ### Senior Strategic Consultant | Commercial & Strategic Market Planning | Data Scientist | Business Intelligence | AI & Machine Learning
 
