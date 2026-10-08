@@ -1,5 +1,4 @@
-<img width="1128" height="191" alt="Pagina dbian linkdin" src="https://github.com/user-attachments/assets/ed434832-5dd1-4443-adfa-25ac88ac4819" />
-
+<img width="1584" height="396" alt="Sistema IES + Orquestração + Smart Route + Inteligência Estratégica" src="https://github.com/user-attachments/assets/a3bbe4a3-6fd1-4a7c-b3b6-963361caa641" />
 
 
 ### Hi there 👋
